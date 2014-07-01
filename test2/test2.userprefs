@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerObjList.js">
+    <Files>
+      <File FileName="Assets\CreateObj.js" Line="53" Column="3" />
+      <File FileName="Assets\playerObjList.js" Line="4" Column="22" />
+      <File FileName="Assets\cameraControl.js" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
