@@ -29,13 +29,13 @@ function Update () {
 		}
 	} else
 	{
-		var oldY = direction.y;
+		var oldY : float = direction.y;
 		direction = Vector3(Input.GetAxis("Horizontal"),0,Input.GetAxis("Vertical"));
 		direction = transform.TransformDirection(direction);
 		direction *= moveSpeed;
 		direction.y = oldY;
 	}
 
-	if (direction.y > 0 || !controller.isGrounded) direction.y -= gravity;
+	direction.y -= gravity*Time.deltaTime;
 	controller.Move(direction*Time.deltaTime);
 }

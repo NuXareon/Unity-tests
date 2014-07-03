@@ -2,8 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.js">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControl.js" Line="31" Column="3" />
-      <File FileName="Assets\Scripts\CameraControl.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.js" Line="15" Column="21" />
+      <File FileName="Assets\Scripts\GranadeExplosion.js" Line="13" Column="61" />
+      <File FileName="Assets\Scripts\SysParticleAutoDestroy.js" Line="10" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
