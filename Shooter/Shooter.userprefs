@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GranadeExplosion.js">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControl.js" Line="15" Column="21" />
-      <File FileName="Assets\Scripts\GranadeExplosion.js" Line="13" Column="61" />
-      <File FileName="Assets\Scripts\SysParticleAutoDestroy.js" Line="10" Column="36" />
+      <File FileName="Assets\Scripts\PlayerControl.js" Line="48" Column="13" />
+      <File FileName="Assets\Scripts\GranadeExplosion.js" Line="21" Column="49" />
+      <File FileName="Assets\Scripts\SysParticleAutoDestroy.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

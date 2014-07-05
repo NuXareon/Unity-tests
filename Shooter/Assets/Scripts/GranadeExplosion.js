@@ -18,7 +18,7 @@ function OnTriggerEnter()
 	{
 		if (hit && hit.rigidbody)
 		{
-			hit.rigidbody.AddExplosionForce(power,pos,r,0.1,ForceMode.Impulse);
+			hit.rigidbody.AddExplosionForce(power,pos,r,0,ForceMode.Impulse);
 		}
 	}
 	
