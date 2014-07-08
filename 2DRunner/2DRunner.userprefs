@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Jump.js">
+    <Files>
+      <File FileName="Assets\Scripts\death.js" Line="13" Column="55" />
+      <File FileName="Assets\Scripts\general.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Jump.js" Line="10" Column="80" />
+      <File FileName="Assets\Scripts\levelGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveLeft.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\points.js" Line="6" Column="86" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -9,7 +9,6 @@ function Update () {
 	if (transform.position.y < -6) {
 		PlayerPrefs.SetInt("Score", 0);
 		PlayerPrefs.Save();
-		print(PlayerPrefs.GetInt("Highscore"));
 		Application.LoadLevel(Application.loadedLevel);
 		// Ajustar salt (no infinity salterino) (raycasting)
 		// Score over time
