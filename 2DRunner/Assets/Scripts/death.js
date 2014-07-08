@@ -10,9 +10,5 @@ function Update () {
 		PlayerPrefs.SetInt("Score", 0);
 		PlayerPrefs.Save();
 		Application.LoadLevel(Application.loadedLevel);
-		// Ajustar salt (no infinity salterino) (raycasting)
-		// Score over time
-		// Speed over time
-		// Combo multiplier
 	}
 }
